@@ -1,5 +1,7 @@
 #include <iostream>
 
+// does not delete anty objects, memory leaks
+
 using namespace std;
 
 class Node {
